@@ -1,0 +1,17 @@
+5. Write unit tests for the program below. Test the Subtract and the Add functions. Make use of
+structs and slices to satisfy the following operations with sets of numbers:
+● For Addition:
+○ 1 and 2
+○ 3 and 4
+○ 5 and 6
+● For Subtraction:
+○ 2 and 1
+○ 4 and 3
+○ 6 and 5
+package math
+func Subtract(x, y int) (res int) {
+return x - y
+}
+func Add(x, y int) (res int) {
+return x + y
+}

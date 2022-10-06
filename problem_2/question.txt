@@ -1,0 +1,3 @@
+2. Create a small program with a for loop which can iterate over the sequential values sent on
+the channel until it closes.
+Values: 10, 20, 35, 100, 200, 502

@@ -1,0 +1,5 @@
+6. Write a small program which simulates capturing of the status code for errors produced by an
+HTTP request. The objective is to come up with custom errors to capture detailed error
+information cleanly. Output must be like the ones below for 503 status code:
+status 503: err unavailable
+exit status 1
